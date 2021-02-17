@@ -1,6 +1,6 @@
 name: "bc-notification"
 on:
-  issues:
+  issues: Edit
     types: [edited, labeled]
 
 jobs:
